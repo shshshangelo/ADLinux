@@ -1,0 +1,36 @@
+Set Up web server, MS SQL database, file sharing, and email automation on Ubuntu  Desktop 22.04+ for an e-commerce website.
+ 
+Tasks:  
+
+Ubuntu Set up and Configuration  
+• Install Ubuntu Desktop 22.04 or later versions  
+
+Domain and Hosting  
+• Purchase a domain and set up DNS configuration  
+
+Web Server and Database Setup  
+• Deploy an e-commerce website. 
+• Install MS SQL Server on Ubuntu for website database  
+
+Security and Accessibility  
+• Add SSL to the website for HTTPS. 
+
+Active Directory Domain Controller Setup  
+• Configure Active Directory Domain Services (AD DS)  
+• Promote the server to a Domain Controller (DC)  
+• Set up DNS  
+
+Account Creation and Role Management 
+• Create user accounts in Active Directory  
+• Assign user roles and permission for network resources  
+• File Server Configuration with Active Directory Integration   
+• Configure a file server  
+• Integrate the file server with Active Directory  
+• Set up shared folders with specific user access rights based on roles
+
+
+Final Submission  
+
+• Documentation: Step-by-step set up, Issues faced, and solutions. 
+• Live Demonstration: Running website with security, AD DS setup, user authentication  and file server integration.  
+• Presentation: Overview of Website Deployment, File Server, Active Directory,  configurations, roles, and access controls.
